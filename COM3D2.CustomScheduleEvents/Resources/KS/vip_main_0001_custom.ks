@@ -1,0 +1,11 @@
+*top
+;===========================================
+	@if exp= "GetManFlag('ŽžŠÔ‘Ñ') == 2"
+		@eval exp="tf['VIPŽžŠÔ‘Ñ'] = '’‹ŽdŽ–ID'"
+	@elsif exp= "GetManFlag('ŽžŠÔ‘Ñ') == 3"
+		@eval exp="tf['VIPŽžŠÔ‘Ñ'] = '–éŽdŽ–ID'"
+	@endif
+
+	@eval exp="ExecMaidTaskCustom(0,tf['VIPŽžŠÔ‘Ñ'], 'VIP')"
+	@R_return
+	@s

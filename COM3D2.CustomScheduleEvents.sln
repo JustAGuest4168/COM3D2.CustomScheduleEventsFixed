@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COM3D2.CustomScheduleEvents", "COM3D2.CustomScheduleEvents\COM3D2.CustomScheduleEvents.csproj", "{475D4AF5-4458-4B40-8B76-79FCC3AAB9F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{475D4AF5-4458-4B40-8B76-79FCC3AAB9F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{475D4AF5-4458-4B40-8B76-79FCC3AAB9F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{475D4AF5-4458-4B40-8B76-79FCC3AAB9F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{475D4AF5-4458-4B40-8B76-79FCC3AAB9F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98E36A2A-733F-4CEB-8211-E9C197C3FFAC}
+	EndGlobalSection
+EndGlobal
